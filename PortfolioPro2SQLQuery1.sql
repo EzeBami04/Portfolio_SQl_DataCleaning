@@ -145,7 +145,7 @@ Select*,
 From PortfolioPro2.dbo.Housingdata
 --Order by ParcelID
 
-)
+
 Select*
 From RownumCTE
 Where row_num > 1
